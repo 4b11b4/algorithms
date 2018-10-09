@@ -1,3 +1,6 @@
 { "plugins": ["katex",
-              "page-treeview"]
+              "page-treeview"],
+  "pluginsConfig": {
+    "mathjax": { "forceSVG":true }
+  }
 }
