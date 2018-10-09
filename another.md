@@ -1,3 +1,3 @@
 Nothing to see here!
 
-(general.md)[general.md]
+[general.md](general.md)
