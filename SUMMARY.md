@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Another page](another.md)
-* [General](general.md)
+* [General Information](general.md)
+* [Run-time Analysis](run-time.md)
+* [Stability](stability.md)
