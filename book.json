@@ -1,2 +1,2 @@
-{ "plugins": ["katex", "page-treeview"]
+{ "plugins": ["mathjax"]
 }
