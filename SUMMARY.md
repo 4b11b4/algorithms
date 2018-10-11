@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Introduction](README.md)
 * [General Information](general.md)
 * [Big O, Omega & Theta](big-o-omega-theta.md)
 * [Run-time Analysis](run-time.md)
