@@ -1,6 +1,7 @@
-# Solving Recurrence Relations
-Test
+# Recurrence Relations 
 
-$$
-X(n) = X(n-1) + n
-$$
+test
+
+$$x(n)$$
+
+test

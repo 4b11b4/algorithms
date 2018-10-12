@@ -7,5 +7,5 @@
 * [Stability](stability.md)
 * [Alg. vs Prog. Complexity](complexity.md)
 * [Brute Force Methods](brute.md)
-* [Recurrence](recurs.md)
+* [Recurrence Relations](recur.md)
 
