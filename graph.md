@@ -5,13 +5,19 @@
  - __vertices:__ "nodes" or "circles", and...
  - __edges:__ the lines
 
-* Each vertex has a _degree_ or *number of connections*: the number of edges that connect to it.
+* Each vertex has a __degree__ or "number of connections": the number of edges that connect to it.
  - The sum of degrees (the sum of connections) is (insert sum here) $$ = 2E $$
 
-* A graph can be represented mathematically by G=(V,E) where V and E are a list of vertices and edges.
+* A graph can be represented mathematically by $$ G=(V,E) $$  where V and E are a list of vertices and edges.
 
-* When talking about graph theory, the word _cycle_ is used.
- - In an __undirected__ graph, the length of a cycle must be at least 3. (you have to move three times to get back to where you started)
+* A __path__ is a list of vertices.
+ - A __path__ can be written mathematically as:
+   $$ \{v0, v1, v2, etc\} \in E $$
+   The $$ \in E $$ part says that it is mathematically possible to get from point $$ v_0 $$ to $$ v_n $$.
+
+
+* When talking about graph theory, the word __cycle__ is used.
+ - In an __undirected__ graph, the length of a __cycle__ must be at least 3. (you have to move three times to get back to where you started)
  - It is possible that a graph is __acyclic__ or does not have any possible cycles.
  - In a __directed__ graph, the length of a cycle could just be 1.
 
@@ -32,11 +38,6 @@
 * DAG 
 - Similar to a tree, but different?
 
-* A __path__ is a list of vertices.
- - A path can be written mathematically as:
-   $$ \{v0, v1, v2, etc\} \in E $$
-   The $$ \in E $$ part says that it is mathematically possible to get from point $$ v_0 to v_n $$.
-
 * Representing a graph inside of a computer:
  - adjacency matrix g[i][j]: an entry of 1 means there is a connection between vertices i and j
   - uses space $$ =V^2 $$
@@ -47,10 +48,21 @@
   - to determine if something is connected... well then we have to "traverse" the until we get there...
 
 ## Graph Traversal Algorithms
-* DFS
+* Depth First Search (DFS)
  - Traverses down a stack and explores all possible connections.
+ - Uses a stack.
+ - Visual Learners: YouTube Link
  - Can be used to check for __connectivity__ and __acyclicy__
  - matrix: O(V^2)
  - list: O(V+E)
-* BFS
+* Breadth First Search (BFS)
  - Searches all nodes at each connection distance.
+ - Uses a queue.
+ - Visual Learners: YouTube Link
+ - matrix: O(V^2)
+ - list: O(V+E)
+ - Same complexity as DFS for data types.
+* Topological Sorting
+ - For a directed graph, there cannot be a cycle.
+ - Just take the stack in reverse? After using DFS?
+ - Visual Learners: YouTube Link
