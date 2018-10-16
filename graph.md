@@ -7,12 +7,12 @@
 --- In directed graphs, it may be useful to break up the graph into a list of "_strongly connected_" graphs.
 
 * A graph is made up of:
-- _vertices_, and
-- _edges_
+ - _vertices_, and
+ - _edges_
 
 * When talking about graph theory, the word _cycle_ is used.
-- In a directed graph, the length of a cycle could just be 1.
-- In an undirected graph, the length of a cycle must be at least 3. (you have to move three times to get back to where you started)
+ - In a directed graph, the length of a cycle could just be 1.
+ - In an undirected graph, the length of a cycle must be at least 3. (you have to move three times to get back to where you started)
 - It is possible that a graph is _acyclic_ or does not have any possible cycles.
 
 * Trees
