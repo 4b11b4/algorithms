@@ -1,7 +1,6 @@
 # Decrease & Conquer 
 * Known as the "__inductive__" approach because:
- - The idea is to __recursively__ attack the problem by breaking it into smaller pieces.
-<br>
+ - The idea is to __recursively__ attack the problem by breaking it into smaller pieces.  
 * A basic real world example: exponentiation
  - go back through slides an add figures 4.1, 4.2
   - Figure 4.1
