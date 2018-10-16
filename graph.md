@@ -2,8 +2,9 @@
 ## Notation
 * What is a __graph__? A way to represent something.
 * A __graph__ may be __directed__ or __undirected__.
--- In __directed__ graphs, all arrows point forward.
---- We put these two words together: "strongly" and "connected" to indicate that in _directed_ graphs you are able to travel from one node to another.
+ - In __directed__ graphs, all arrows point forward.
+
+* "__strongly connected:__" in __directed__ graphs, it is possible to travel from one node to another.
 --- In directed graphs, it may be useful to break up the graph into a list of "_strongly connected_" graphs.
 
 * A graph is made up of:
