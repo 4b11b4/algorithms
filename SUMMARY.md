@@ -10,3 +10,5 @@
 * [Recurrence Relations](recur.md)
 * [Graph Theory](graph.md)
 * [Decrease and Conquer](decconq.md)
+* [Insertion Sort](insert.md)
+* [Binary Search Trees](binst.md)
