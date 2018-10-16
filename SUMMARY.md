@@ -9,3 +9,4 @@
 * [Brute Force Methods](brute.md)
 * [Recurrence Relations](recur.md)
 * [Graph Theory](graph.md)
+* [Decrease and Conquer](decconq.md)
