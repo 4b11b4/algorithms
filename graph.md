@@ -6,25 +6,25 @@
 --- We put these two words together: "strongly" and "connected" to indicate that in _directed_ graphs you are able to travel from one node to another.
 --- In directed graphs, it may be useful to break up the graph into a list of "_strongly connected_" graphs.
 
-- A graph is made up of:
--- _vertices_, and
--- _edges_
+* A graph is made up of:
+- _vertices_, and
+- _edges_
 
-- When talking about graph theory, the word _cycle_ is used.
--- In a directed graph, the length of a cycle could just be 1.
--- In an undirected graph, the length of a cycle must be at least 3. (you have to move three times to get back to where you started)
+* When talking about graph theory, the word _cycle_ is used.
+- In a directed graph, the length of a cycle could just be 1.
+- In an undirected graph, the length of a cycle must be at least 3. (you have to move three times to get back to where you started)
 - It is possible that a graph is _acyclic_ or does not have any possible cycles.
 
-- Trees
--- A tree is a connected, acyclic graph.
--- *Fun* fact: if you add one edge to a tree, it is possible to have a cycle.
--- When we say that it is "connected", it means there is a possible to path to any node. There does not exist any nodes which are isolated.
+* Trees
+- A tree is a connected, acyclic graph.
+- *Fun* fact: if you add one edge to a tree, it is possible to have a cycle.
+- When we say that it is "connected", it means there is a possible to path to any node. There does not exist any nodes which are isolated.
 
-- Forest
--- Any graph can be broken down into it's connected components.
+* Forest
+- Any graph can be broken down into it's connected components.
 
-- DAG 
--- Similar to a tree, but different?
+* DAG 
+- Similar to a tree, but different?
 
 - Each vertex has a _degree_ or *number of connections*: the number of edges that connect to it.
 -- The sum of degrees (the sum of connections) is (insert sum here) $$ = 2E $$
