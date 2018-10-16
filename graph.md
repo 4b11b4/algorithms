@@ -32,7 +32,8 @@
 * DAG 
 - Similar to a tree, but different?
 
-- A _path_ is a list of vertices... assuming that it is possible to get from one circle to another. We express this mathematically as {v0, v1, v2, etc} in the set of E.
+* A __path__ is a list of vertices... assuming that it is possible to get from one circle to another.
+ - We express this mathematically as {v0, v1, v2, etc} in the set of E.
 
 * Representing a graph inside of a computer:
  - adjacency matrix g[i][j]: an entry of 1 means there is a connection between vertices i and j
