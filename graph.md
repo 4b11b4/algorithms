@@ -1,8 +1,8 @@
 # Graph Theory
 ## Notation
-- A way to represent something.
-- A graph may be directed or undirected.
--- In directed graphs, all arrows point forward.
+* What is a __graph__? A way to represent something.
+* A __graph__ may be __directed__ or __undirected__.
+-- In __directed__ graphs, all arrows point forward.
 --- We put these two words together: "strongly" and "connected" to indicate that in _directed_ graphs you are able to travel from one node to another.
 --- In directed graphs, it may be useful to break up the graph into a list of "_strongly connected_" graphs.
 
