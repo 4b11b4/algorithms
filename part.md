@@ -21,7 +21,8 @@
 
 # Complexity
 * $$ O(n) $$... powerful
-- Hoare Partition
+- Hoare Partition (Turing Award)
  - This is quicksort.
 - Lomuto Partition
   ![lomuto](lomuto.gif)
+  Lomuto's algorithm is "simpler, but less efficient". (UNVERIFIED)
