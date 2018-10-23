@@ -26,3 +26,7 @@
 - Lomuto Partition
   ![lomuto](lomuto.gif)
   Lomuto's algorithm is "simpler, but less efficient". (UNVERIFIED)
+
+# Applications
+1. Selection Problem
+ * utilizes partitioning to make finding the median value $$ in O(n) $$
