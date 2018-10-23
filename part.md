@@ -29,4 +29,4 @@
 
 # Applications
 1. Selection Problem
- * utilizes partitioning to make finding the median value $$ in O(n) $$
+ * utilizes partitioning to make finding the median value $$ \in O(n) $$
