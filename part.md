@@ -26,3 +26,11 @@
 # Applications
 1. Selection Problem
  * utilizes partitioning to make finding the median value $$ \in O(n) $$
+ * worst case
+   When the array is already sorted?
+ * best case:
+   The best case occurs when the array is "perfectly balanced" or, in other words, when we recurse we always split the array in half.
+
+# QuickSort vs QuickSelect Complexity
+Best Case:
+ - $$ T_q(n) = n + 2*T_q(n/2) $$
