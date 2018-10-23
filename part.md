@@ -15,10 +15,6 @@
     and
   - Elements above a[I] > a[i]
 
-## Example:
-1. The function returns the index of the __median__ element after searching the entire array.
-2. You could then use this return value 
-
 # Complexity
 * $$ O(n) $$... powerful
 - Hoare Partition (Turing Award)
