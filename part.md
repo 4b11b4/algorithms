@@ -33,4 +33,7 @@
 
 # QuickSort vs QuickSelect Complexity
 Best Case:
- - $$ T_q(n) = n + 2*T_q(n/2) $$
+ - QuickSort:
+   $$ T_q(n) = n + 2*T_q(n/2) $$
+ - QuickSelect:
+   $$ T_q(n) = n + T_q(n/2) $$
