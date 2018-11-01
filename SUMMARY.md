@@ -16,3 +16,4 @@
 * [Reduce By...](reduce.md)
 * [Run-time Analysis](runtime.md)
 * [Stability](stability.md)
+* [Priority Queue (Heaps)](priq.md)
