@@ -9,6 +9,7 @@
 * [DFS & BFS](dfsbfs.md)
 * [General Information](general.md)
 * [Graph Theory](graph.md)
+* [Horspool's Algorithm](horspool.md)
 * [Insertion Sort](insert.md)
 * [Partioning](part.md)
 * [P-Complete](pcomplete.md)
