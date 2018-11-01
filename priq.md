@@ -3,7 +3,7 @@ In the real world, we don't always have some fixed data set we want to sort.
 It is often the case that our data is constantly changing. We want to be able
 to dynamically add to and remove from it.
 
-A __Priority Queue__ is an abstract data type that supports sorting of real- 
+A __Priority Queue__ is an abstract data type that supports sorting of real 
 time data.
 
 For example:
@@ -11,7 +11,7 @@ For example:
 - Deletion of an element
 - Initialization (organizing initial data set)
 
-Commonly implemented as a __heap__.
+A __Priority Queue__ is commonly implemented as a __heap__.
 
 ## Two Types of Heaps
 1. min-heap
