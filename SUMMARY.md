@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Binary Search Trees](binst.md)
 * [Brute Force Methods](brute.md)
 * [Decrease and Conquer](decconq.md)
 * [General Information](general.md)
