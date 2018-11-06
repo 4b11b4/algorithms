@@ -1,4 +1,4 @@
 # Introduction 
-Insert LaTeX by using "$$".
-e.g.
+Insert LaTeX by using "$$".<br>
+e.g.<br>
 $$ O(n) $$
