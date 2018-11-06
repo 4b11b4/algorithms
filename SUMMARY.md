@@ -1,12 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Big O, Omega & Theta](bigo.md)
 * [Binary Search Trees](binst.md)
 * [Brute Force Methods](brute.md)
-* [Complexity](complexity.md)
 * [Decrease and Conquer](decconq.md)
-* [DFS & BFS](dfsbfs.md)
 * [General Information](general.md)
 * [Graph Theory](graph.md)
 * [Hash](hash.md)
