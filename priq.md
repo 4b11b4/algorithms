@@ -29,3 +29,25 @@ A complete binary tree can be represented as an array where:
 * The root is located at position $$ n $$.
   - The left child is located at: $$ 2*n $$
   - The right child is located at: $$ 2*n + 1 $$
+
+## Operations on a Heap
+### Heap Properties
+* To understand why these are the operations for a "heap", we first should
+  define 3 properties of "heaps" or "priority queues":
+### Operations
+* fixUp()
+* fixDown()
+* insert()
+  - put at end of array (a heap fills from left to right)
+  - makes a call to fixUp() -- if necessary
+* delete()
+  - we only ever delete the max element (the root)
+  - calls fixDown()
+* initialization()
+  - two methods:
+    1. top-down
+      - $ O(nlogn) $$ time
+      - $ O(n) $$ extra space
+    2. bottom-up
+      - $$ O(n) $$ time
+      - $$ O(1) $$ extra space
