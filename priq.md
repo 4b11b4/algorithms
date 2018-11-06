@@ -36,6 +36,7 @@ A complete binary tree can be represented as an array where:
   define 3 properties of "heaps" or "priority queues":
 ### Operations
 * fixUp()
+  - worst case: $$ O(logn) $$ because max height of bin tree = $$ logn $$
 * fixDown()
 * insert()
   - put at end of array (a heap fills from left to right)
@@ -51,3 +52,8 @@ A complete binary tree can be represented as an array where:
     2. bottom-up
       - $$ O(n) $$ time
       - $$ O(1) $$ extra space
+      - start at index N/2 in the array, because we don't need to fixDown()
+        the leaves
+
+## HeapSort
+* add a visualization here

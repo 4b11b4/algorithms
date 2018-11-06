@@ -9,6 +9,7 @@
 * [DFS & BFS](dfsbfs.md)
 * [General Information](general.md)
 * [Graph Theory](graph.md)
+* [Hash](hash.md)
 * [Horspool's Algorithm](horspool.md)
 * [Insertion Sort](insert.md)
 * [Partioning](part.md)
@@ -18,3 +19,4 @@
 * [Reduce By...](reduce.md)
 * [Run-time Analysis](runtime.md)
 * [Stability](stability.md)
+* [String Matching](stringmatch.md)
