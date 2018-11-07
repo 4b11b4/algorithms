@@ -7,4 +7,5 @@
 * add visualization here
 
 ## Boyer-Moore
-* add visualization here
+### Visualize
+* https://people.ok.ubc.ca/ylucet/DS/BoyerMoore.html
