@@ -2,6 +2,7 @@
 
 * [Brute Force Methods](brute.md)
 * [Decrease and Conquer](decconq.md)
+* [Dynamic Programming](dynamic.md)
 * [General Information](general.md)
 * [Graph Theory](graph.md)
 * [Hash](hash.md)
