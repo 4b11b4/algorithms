@@ -1,5 +1,6 @@
 # Your Book Title
 
+* [Bigo](bigo.md)
 * [Brute](brute.md)
 * [Decconq](decconq.md)
 * [Dynamic](dynamic.md)
