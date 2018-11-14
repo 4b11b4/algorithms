@@ -13,7 +13,7 @@
 * [Partitioning](partitioning.md)
 * [Priority Queues](priority_queues.md)
 * [Reduce By](reduce_by.md)
-* [Sort Insertion](sort_insertion.md)
+* [Sort Insertion](sort_-_insertion.md)
 * [Sort Merge](sort_merge.md)
 * [Stability](stability.md)
 * [String Matching](string_matching.md)
