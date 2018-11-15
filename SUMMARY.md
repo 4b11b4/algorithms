@@ -2,9 +2,9 @@
 
 * [Big O](big_o.md)
 * [Brute Force](brute_force.md)
-* [Decoding](decoding.md)
 * [Decrease And Conquer](decrease_and_conquer.md)
 * [Dynamic Programming](dynamic_programming.md)
+* [Encoding Decoding](encoding_decoding.md)
 * [Frequency](frequency.md)
 * [General](general.md)
 * [Graph Theory](graph_theory.md)
