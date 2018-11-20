@@ -10,6 +10,7 @@
 * [Graph Theory](graph_theory.md)
 * [Greedy Algorithms](greedy_algorithms.md)
 * [Hash Tables](hash_tables.md)
+* [Master Theorem](master_theorem.md)
 * [Minimum Spanning Trees](minimum_spanning_trees.md)
 * [Partitioning](partitioning.md)
 * [Priority Queues](priority_queues.md)
