@@ -21,4 +21,5 @@
 * [Sort Merge](sort_merge.md)
 * [Stability](stability.md)
 * [String Matching](string_matching.md)
+* [Transitive Closures](transitive_closures.md)
 * [Trees](trees.md)
